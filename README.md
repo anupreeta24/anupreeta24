@@ -16,14 +16,7 @@ I'm a Data Analytics & BI Engineer who turns raw data into clean models, trusted
 - 🎓 **Masters in Data Analytics Engineering, Northeastern University**
 - 📊 **Business Intelligence**: Power BI, DAX, Tableau, KPI design
 - 🏗️ **Data Modeling**: Dimensional models, star and snowflake schemas, fact and dimension tables
-- ⚙️ **Data Pipelines**: SQL, Python, ETL/ELT, PySpark, Talend
-
-
-## 📚 Skills (the "what I actually do" list)
-📊 **Business Intelligence**: dashboard design, DAX, KPI design, semantic models, stakeholder reporting  
-🏗️ **Data Modeling**: dimensional modeling, star and snowflake schemas, data warehousing  
-⚙️ **Data Engineering for Analytics**: ETL/ELT, data validation, incremental loads  
-🔬 **Analytics**: A/B testing, segmentation, statistical analysis, predictive modeling  
+- ⚙️ **Data Pipelines**: SQL, Python, ETL/ELT, PySpark, Talend  
 
 
 ## 🛠️ Tech Stack
